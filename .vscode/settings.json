@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "libc-version.h": "c",
+        "errno.h": "c",
+        "features.h": "c",
+        "errno-base.h": "c",
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "stdio.h": "c",
+        "functional": "c",
+        "system_error": "c",
+        "unistd.h": "c"
+    }
+}
