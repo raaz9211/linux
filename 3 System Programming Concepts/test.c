@@ -16,7 +16,7 @@ int main(){
         errExitEN(s, "pthread_create");}
 
     // Ensure main waits for the thread to finish
-    // pthread_join(thread, NULL);
+    pthread_join(thread, NULL);
 
 }
 
